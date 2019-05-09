@@ -1,0 +1,9 @@
+c:\CSharpSelenium\SeleniumTraining\Scripts\bin\Debug\netstandard2.0\Scripts.deps.json
+c:\CSharpSelenium\SeleniumTraining\Scripts\bin\Debug\netstandard2.0\Scripts.dll
+c:\CSharpSelenium\SeleniumTraining\Scripts\bin\Debug\netstandard2.0\Scripts.pdb
+c:\CSharpSelenium\SeleniumTraining\Scripts\obj\Debug\netstandard2.0\Scripts.csprojAssemblyReference.cache
+c:\CSharpSelenium\SeleniumTraining\Scripts\obj\Debug\netstandard2.0\Scripts.csproj.CoreCompileInputs.cache
+c:\CSharpSelenium\SeleniumTraining\Scripts\obj\Debug\netstandard2.0\Scripts.AssemblyInfoInputs.cache
+c:\CSharpSelenium\SeleniumTraining\Scripts\obj\Debug\netstandard2.0\Scripts.AssemblyInfo.cs
+c:\CSharpSelenium\SeleniumTraining\Scripts\obj\Debug\netstandard2.0\Scripts.dll
+c:\CSharpSelenium\SeleniumTraining\Scripts\obj\Debug\netstandard2.0\Scripts.pdb

@@ -1645,6 +1645,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Scripts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Scripts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Scripts.dll": {}
+        }
       }
     }
   },
@@ -5739,6 +5749,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Scripts/1.0.0": {
+      "type": "project",
+      "path": "../Scripts/Scripts.csproj",
+      "msbuildProject": "../Scripts/Scripts.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5746,6 +5761,7 @@
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
+      "Scripts >= 1.0.0",
       "nunit >= 3.11.0"
     ]
   },
@@ -5756,11 +5772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharpSelenium\\SeleniumTraining\\NUnitTests\\NUnitTests.csproj",
+      "projectUniqueName": "c:\\CSharpSelenium\\SeleniumTraining\\NUnitTests\\NUnitTests.csproj",
       "projectName": "NUnitTests",
-      "projectPath": "C:\\CSharpSelenium\\SeleniumTraining\\NUnitTests\\NUnitTests.csproj",
+      "projectPath": "c:\\CSharpSelenium\\SeleniumTraining\\NUnitTests\\NUnitTests.csproj",
       "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharpSelenium\\SeleniumTraining\\NUnitTests\\obj\\",
+      "outputPath": "c:\\CSharpSelenium\\SeleniumTraining\\NUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5776,7 +5792,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj": {
+              "projectPath": "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

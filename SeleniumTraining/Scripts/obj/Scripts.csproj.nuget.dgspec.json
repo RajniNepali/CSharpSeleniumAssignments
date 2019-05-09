@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj": {}
+    "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj": {}
   },
   "projects": {
-    "C:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj": {
+    "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj",
+        "projectUniqueName": "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj",
         "projectName": "Scripts",
-        "projectPath": "C:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj",
+        "projectPath": "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\Scripts.csproj",
         "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpSelenium\\SeleniumTraining\\Scripts\\obj\\",
+        "outputPath": "c:\\CSharpSelenium\\SeleniumTraining\\Scripts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
