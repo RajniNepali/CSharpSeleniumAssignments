@@ -1,0 +1,17 @@
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnitTest1.deps.json
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnitTest1.runtimeconfig.json
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnitTest1.runtimeconfig.dev.json
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnitTest1.dll
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\NUnitTest1.pdb
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\Scripts1.dll
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\bin\Debug\netcoreapp2.2\Scripts1.pdb
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.csprojAssemblyReference.cache
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.csproj.CoreCompileInputs.cache
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.AssemblyInfoInputs.cache
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.AssemblyInfo.cs
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.csproj.CopyComplete
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.dll
+C:\CSharpSeleniumAssignments\Assignment_ParagKulkarni\NUnitTest1\obj\Debug\netcoreapp2.2\NUnitTest1.pdb

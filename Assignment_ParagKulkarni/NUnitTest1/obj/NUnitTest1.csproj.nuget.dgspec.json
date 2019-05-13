@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\NUnitTest1\\NUnitTest1.csproj": {}
+  },
+  "projects": {
+    "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\NUnitTest1\\NUnitTest1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\NUnitTest1\\NUnitTest1.csproj",
+        "projectName": "NUnitTest1",
+        "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\NUnitTest1\\NUnitTest1.csproj",
+        "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\NUnitTest1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajni.nepali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\Scripts1\\Scripts1.csproj": {
+                "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\Scripts1\\Scripts1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\Scripts1\\Scripts1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\Scripts1\\Scripts1.csproj",
+        "projectName": "Scripts1",
+        "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\Scripts1\\Scripts1.csproj",
+        "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpSeleniumAssignments\\Assignment_ParagKulkarni\\Scripts1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajni.nepali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
