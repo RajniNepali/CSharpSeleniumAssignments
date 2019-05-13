@@ -33,6 +33,9 @@ namespace Tests
             driver = new ChromeDriver(@"C:\CSharpSelenium\SeleniumTraining\NUnitTests\drivers");
            // driver.Navigate().GoToUrl("https://Google.com");
             LaunchSiteTest();
+            
+            
+
            // driver.Close();
           
         }
