@@ -1,0 +1,17 @@
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.deps.json
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.runtimeconfig.json
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.runtimeconfig.dev.json
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.dll
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.pdb
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\Scripts.dll
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\bin\Debug\netcoreapp2.2\Scripts.pdb
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csprojAssemblyReference.cache
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csproj.CoreCompileInputs.cache
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.AssemblyInfoInputs.cache
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.AssemblyInfo.cs
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csproj.CopyComplete
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.dll
+C:\CSharpSeleniumAssignments\Assignment_ShushrutNaik\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.pdb
