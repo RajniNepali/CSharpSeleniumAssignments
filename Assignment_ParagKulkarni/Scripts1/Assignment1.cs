@@ -6,11 +6,12 @@ namespace Scripts1
 {
     public class Assignment1
     {
-        string input = "csharp Corner Home", appentstr = null,finalstr=null;
-        string[] output = null;
-        public string[] toTitleCase()
+        string input = "csharp Corner Home";
+        string appentstr = null,finalstr=null;
+        //string[] output = null;
+        public string toTitleCase()
         {
-            string[] strsplit = input.Split(" ");
+            string[] strsplit=input.Split(' ');
             for (int i = 0; i < strsplit.Length; i++)
             {
                 //char[] strarr=strsplit[i].ToCharArray();
@@ -28,7 +29,7 @@ namespace Scripts1
 
             }
 
-            return output;
+            return finalstr;
         }
     }
 }
