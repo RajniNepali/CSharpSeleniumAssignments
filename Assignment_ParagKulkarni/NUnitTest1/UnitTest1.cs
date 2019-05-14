@@ -10,6 +10,7 @@ namespace Tests
         Assignment2 obj2 = new Assignment2();
         Assignment3 obj3= new Assignment3();
         Assignment4 obj4 = new Assignment4();
+        Assignment5 obj5 = new Assignment5();
         [SetUp]
         public void Setup()
         {
@@ -61,6 +62,14 @@ namespace Tests
         {
             int input = 5;
             obj4.UsingDelegate(input);
+        }
+        [Test]
+        public void Test7()
+        {
+            int principal=3000,interestRate=12,tenure=12;
+            int interest=obj5.CalculateInterest(principal,interestRate,tenure);
+            Assert.AreEqual(4320,interest);
+
         }
     }
 }
