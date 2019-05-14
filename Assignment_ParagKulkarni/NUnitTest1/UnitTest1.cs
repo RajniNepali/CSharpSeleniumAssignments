@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using Scripts1;
+using System.Collections.Generic;
 namespace Tests
 {
     public class Tests
@@ -7,6 +8,7 @@ namespace Tests
         
         Assignment1 obj1 =new Assignment1();
         Assignment2 obj2 = new Assignment2();
+        Assignment3 obj3= new Assignment3();
         [SetUp]
         public void Setup()
         {
@@ -39,6 +41,19 @@ namespace Tests
             string input = "csharp Corner Home dehfsd Corner csharp";
             int count=obj2.CountDistinctWords(input);
             Assert.AreEqual(4,count);                                                                                                                                           
+        }
+        [Test]
+        public void Test5()
+        {
+            List<int> lst = new List<int>();
+            lst.Add(2);
+            lst.Add(1);
+            lst.Add(3);
+            lst.Add(7);
+            lst.Add(5);
+            lst.Add(4);
+            int output = obj3.findSecondMaxInt(lst);
+            Assert.AreEqual(5,output);
         }
     }
 }
