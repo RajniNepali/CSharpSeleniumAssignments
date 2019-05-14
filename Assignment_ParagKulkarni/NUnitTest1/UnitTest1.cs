@@ -9,6 +9,7 @@ namespace Tests
         Assignment1 obj1 =new Assignment1();
         Assignment2 obj2 = new Assignment2();
         Assignment3 obj3= new Assignment3();
+        Assignment4 obj4 = new Assignment4();
         [SetUp]
         public void Setup()
         {
@@ -54,6 +55,12 @@ namespace Tests
             lst.Add(4);
             int output = obj3.findSecondMaxInt(lst);
             Assert.AreEqual(5,output);
+        }
+        [Test]
+        public void Test6()
+        {
+            int input = 5;
+            obj4.UsingDelegate(input);
         }
     }
 }

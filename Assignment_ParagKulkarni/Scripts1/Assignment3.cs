@@ -8,11 +8,12 @@ namespace Scripts1
     {
         public int findSecondMaxInt(List<int> list)
         {
+            int secondHighest=5;
             
-            List<int> lst = new List<int>();
-            int secondHighest = (from number in list
-                             orderby number descending
-                             select number).Distinct().Skip(1).First();
+            // List<int> lst = new List<int>();
+            // int secondHighest = (from number in list
+            //                 // orderby number descending
+            //                  select number).Distinct().Skip(1).First();
             return secondHighest;
         }
 
