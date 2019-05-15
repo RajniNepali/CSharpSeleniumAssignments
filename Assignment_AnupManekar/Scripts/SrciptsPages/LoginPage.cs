@@ -3,6 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Firefox;
+
 namespace Scripts
 {
     public class LoginPage
@@ -12,7 +13,7 @@ namespace Scripts
         string password ="DummyPwd";
         
         IWebDriver driver = new ChromeDriver();
-        driver
+        
         
 
         

@@ -1,0 +1,17 @@
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.deps.json
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.runtimeconfig.json
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.runtimeconfig.dev.json
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\NUnitTests.pdb
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\Scripts.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\bin\Debug\netcoreapp2.2\Scripts.pdb
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csprojAssemblyReference.cache
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csproj.CoreCompileInputs.cache
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.AssemblyInfoInputs.cache
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.AssemblyInfo.cs
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.csproj.CopyComplete
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\NUnitTests\obj\Debug\netcoreapp2.2\NUnitTests.pdb

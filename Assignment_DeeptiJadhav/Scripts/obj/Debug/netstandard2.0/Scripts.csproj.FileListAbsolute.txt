@@ -1,0 +1,9 @@
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\bin\Debug\netstandard2.0\Scripts.deps.json
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\bin\Debug\netstandard2.0\Scripts.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\bin\Debug\netstandard2.0\Scripts.pdb
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\obj\Debug\netstandard2.0\Scripts.csprojAssemblyReference.cache
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\obj\Debug\netstandard2.0\Scripts.csproj.CoreCompileInputs.cache
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\obj\Debug\netstandard2.0\Scripts.AssemblyInfoInputs.cache
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\obj\Debug\netstandard2.0\Scripts.AssemblyInfo.cs
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\obj\Debug\netstandard2.0\Scripts.dll
+c:\CSharpSeleniumAssignments\Assignment_DeeptiJadhav\Scripts\obj\Debug\netstandard2.0\Scripts.pdb

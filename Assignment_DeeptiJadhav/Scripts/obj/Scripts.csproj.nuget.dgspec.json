@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\CSharpSeleniumAssignments\\Assignment_DeeptiJadhav\\Scripts\\Scripts.csproj": {}
+  },
+  "projects": {
+    "c:\\CSharpSeleniumAssignments\\Assignment_DeeptiJadhav\\Scripts\\Scripts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\CSharpSeleniumAssignments\\Assignment_DeeptiJadhav\\Scripts\\Scripts.csproj",
+        "projectName": "Scripts",
+        "projectPath": "c:\\CSharpSeleniumAssignments\\Assignment_DeeptiJadhav\\Scripts\\Scripts.csproj",
+        "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
+        "outputPath": "c:\\CSharpSeleniumAssignments\\Assignment_DeeptiJadhav\\Scripts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rajni.nepali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

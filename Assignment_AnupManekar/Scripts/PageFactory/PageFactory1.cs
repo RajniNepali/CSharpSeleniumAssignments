@@ -9,7 +9,5 @@ namespace Scripts
     {
         LoginElements LoginEleObj = new LoginElements();
         LoginPage LoginScriptObj = new LoginPage();
-        
-        IWebDriver driver;
     }
 }
