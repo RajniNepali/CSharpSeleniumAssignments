@@ -1,0 +1,17 @@
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.csprojAssemblyReference.cache
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.csproj.CoreCompileInputs.cache
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.AssemblyInfoInputs.cache
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.AssemblyInfo.cs
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NunitTests.deps.json
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NunitTests.runtimeconfig.json
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NunitTests.runtimeconfig.dev.json
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NunitTests.dll
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\NunitTests.pdb
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\Scripts.dll
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\bin\Debug\netcoreapp2.2\Scripts.pdb
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.csproj.CopyComplete
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.dll
+c:\CSharpSeleniumAssignments\Assignment_AnupManekar\NunitTests\obj\Debug\netcoreapp2.2\NunitTests.pdb

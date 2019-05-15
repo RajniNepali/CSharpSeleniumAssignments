@@ -39,6 +39,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
