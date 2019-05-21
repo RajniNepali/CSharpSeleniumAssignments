@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {}
+    "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {}
   },
   "projects": {
-    "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {
+    "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
+        "projectUniqueName": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
         "projectName": "Scripts",
-        "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
+        "projectPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
         "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\obj\\",
+        "outputPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

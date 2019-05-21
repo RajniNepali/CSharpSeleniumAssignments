@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj": {}
+    "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj": {
+    "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj",
+        "projectUniqueName": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj",
         "projectName": "NUnitTests",
-        "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj",
+        "projectPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\NUnitTests.csproj",
         "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\obj\\",
+        "outputPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\NUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {
-                "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj"
+              "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {
+                "projectPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj"
               }
             }
           }
@@ -57,6 +57,14 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.213, )"
+            },
             "nunit": {
               "target": "Package",
               "version": "[3.11.0, )"
@@ -70,14 +78,14 @@
         }
       }
     },
-    "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {
+    "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
+        "projectUniqueName": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
         "projectName": "Scripts",
-        "projectPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
+        "projectPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\Scripts.csproj",
         "packagesPath": "C:\\Users\\Rajni.nepali\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\obj\\",
+        "outputPath": "c:\\CSharpSeleniumAssignments\\Assignment_ShushrutNaik\\Scripts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
